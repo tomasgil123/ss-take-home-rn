@@ -42,7 +42,7 @@ A React Native mobile application that displays news articles from the News API 
    - Copy `.env.example` to `.env`
    - Add your News API key to the `.env` file:
      ```
-     NEWS_API_KEY=your_api_key_here
+     EXPO_PUBLIC_NEWS_API_KEY=your_api_key_here
      ```
    - The app includes a default API key, but you can get your own from [https://newsapi.org/](https://newsapi.org/)
 
