@@ -15,7 +15,7 @@ This guide provides comprehensive instructions for manually testing the News Rea
 
 ### 3. Start the Development Server
 ```bash
-npm start
+expo start --tunnel
 ```
 This will start the Expo development server and display a QR code in the terminal.
 
